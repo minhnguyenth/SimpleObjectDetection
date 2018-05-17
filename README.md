@@ -6,3 +6,6 @@
 - Find contours from the image
 - Keep only the largest contours under a very simple assumption that this is the object we are tracking (!)
 - Find centroid of the object and mark it on the frame
+
+Code reference: http://anikettatipamula.blogspot.ro/2012/12/ball-tracking-detection-using-opencv.html
+  
